@@ -1,5 +1,4 @@
 
-![Logo](https://gilvan-borges.github.io/personal-ortfolio\img/Luxe.png)
 
 # Personal Portfolio
 
